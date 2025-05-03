@@ -1,0 +1,60 @@
+{
+  "Man-in-the-middle Attack": [
+    "IPid",
+    "FDDI",
+    "x25",
+    "rangingdistance"
+  ],
+  "Phishing and spear phishing attacks": [
+    "tcpchecksum",
+    "mtcp",
+    "controlflags",
+    "tcpoffset",
+    "tcpport"
+  ],
+  "Drive-by attack": [
+    "ICMPID",
+    "udptraffic",
+    "udpunicorn",
+    "datagramid",
+    "NTP",
+    "RIP",
+    "TFTP"
+  ],
+  "Password attack": [
+    "GETID",
+    "POSTID",
+    "openBSD",
+    "appid",
+    "sessionid",
+    "transid",
+    "physicalid"
+  ],
+  "SQL injection attack": [
+    "SYN",
+    "ACK",
+    "synpacket",
+    "sycookies"
+  ],
+  "Cross-site scripting (XSS) attack": [
+    "serverattack",
+    "serverid",
+    "blockbankwidth"
+  ],
+  "Eavesdropping attack": [
+    "monlist",
+    "getmonlist",
+    "NTPserver"
+  ],
+  "Birthday attack": [
+    "portid",
+    "FTPID",
+    "tryion",
+    "fragflag"
+  ],
+  "Teardrop attack": [
+    "malwareid",
+    "gethttpid",
+    "httpid"
+  ]
+}
